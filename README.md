@@ -8,7 +8,7 @@
 </p>
 
 
-## 🌺 **About me**
+🌺 **About me**
 
 <br>
 
