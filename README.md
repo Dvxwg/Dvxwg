@@ -1,6 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Dvxwg </b>
-<br>
+	
+<hr>
 	
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3139F7&center=true&vCenter=true&random=false&width=435&lines=Learning+Web+Development;From+Ecuador;I+love+learn+new+things" alt="Typing SVG" /></a>
