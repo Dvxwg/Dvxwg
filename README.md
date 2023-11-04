@@ -5,7 +5,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3139F7&center=true&vCenter=true&random=false&width=435&lines=Learning+Web+Development;From+Ecuador;I+love+learn+new+things" alt="Typing SVG" /></a>
 </p>
+
 <br>
+
 <p align="center">
    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=dvxwg&label=Profile%20Views&color=12&icon=6&pretty=true" />
@@ -22,9 +24,9 @@
 
 <br>
 
-🌎 I'm Junior Developer from 🇪🇨
-💻 Learning new things every day
-🪐 I'm working on Stelar LLC 
+- 🌎 I'm Junior Developer from 🇪🇨
+- 💻 Learning new things every day
+- 🪐 I'm working on Stelar LLC 
 
 <br>
 
