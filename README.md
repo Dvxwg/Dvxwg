@@ -1,9 +1,12 @@
 
 <h1 align="center"><b>Hi , I'm Dvxwg </b>
-	<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">-->
-<!--  -->
+<br>
+	
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3139F7&center=true&vCenter=true&random=false&width=435&lines=Learning+Web+Development;From+Ecuador;I+love+learn+new+things" alt="Typing SVG" /></a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dvxwg&label=Profile%20Views&color=12&icon=6&pretty=true" />
+  </a>
 </p>
 
 
@@ -18,13 +21,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+🌎 I'm Junior Developer from 🇪🇨
+💻 Learning new things every day
+🪐 I'm working on Stelar LLC 
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
