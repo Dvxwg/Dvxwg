@@ -4,7 +4,10 @@
 	
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3139F7&center=true&vCenter=true&random=false&width=435&lines=Learning+Web+Development;From+Ecuador;I+love+learn+new+things" alt="Typing SVG" /></a>
-  <a href="https://visitcount.itsvg.in">
+</p>
+<br>
+<p align="center">
+   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=dvxwg&label=Profile%20Views&color=12&icon=6&pretty=true" />
   </a>
 </p>
@@ -12,10 +15,8 @@
 
 <br>
 
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 🌺 **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
